@@ -10,6 +10,7 @@ Homework #12
   * MySQL
   * Heroku
   * HTML
+  * Handlebars
   * Bootstrap
 
 ### Using Eat-Da-Burger
