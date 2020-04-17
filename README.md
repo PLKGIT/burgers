@@ -30,12 +30,12 @@ Prompts users to submit a desired burger via an input form and then to eat them.
 Pam Kelly at [esq.kelly@gmail.com](mailto:esq.kelly@gmail.com)
 
 #### Deployed Application
-[Burgers](https://lit-stream-39625.herokuapp.com/) at https://lit-stream-39625.herokuapp.com/
+[Burgers App](https://lit-stream-39625.herokuapp.com/) at https://lit-stream-39625.herokuapp.com/
 
-#### GitHub
-[Github Link](https://github.com/PLKGIT/burgers) at https://github.com/PLKGIT/burgers
+#### GitHub Repository
+[Github](https://github.com/PLKGIT/burgers) at https://github.com/PLKGIT/burgers
 
-#### Portfolio
-[Professional Porfolio](https://www.pamkelly.com/portdev.html) at https://www.pamkelly.com/portdev.html
+#### Developer's Portfolio
+[Porfolio](https://www.pamkelly.com/portdev.html) at https://www.pamkelly.com/portdev.html
 
 Copyright &copy; 2019-2020 Pamela L. Kelly
