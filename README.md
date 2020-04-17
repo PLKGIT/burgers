@@ -1,9 +1,9 @@
 # Eat-Da-Burger
 
-[Eat the Burger](https://res.cloudinary.com/damplk/image/upload/v1584179650/portal/hw_burgers_lcrnon.png "Eat the Burger")
+![Eat the Burger](https://res.cloudinary.com/damplk/image/upload/v1584179650/portal/hw_burgers_lcrnon.png "Eat the Burger")
 
 ## Overview
-App allows users to submit a desired burger via an input form.  Burgers are added to the page with an associated "devour" button. When the burger is devoured, the burger moves to the right side the screen and it name struck through.
+App allows users to submit a desired burger via an input form.  Burgers are added to the page with an associated "devour" button. When the burger is devoured, the burger moves to the right side the screen and its name greyed out.
 
 ### Technologies Used
   * Node JS v12.13.0
